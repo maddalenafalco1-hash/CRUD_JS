@@ -40,3 +40,11 @@ h1 {
     background-color: #d1157b;
 }
 
+li span.done {
+
+    text-decoration: line-through;
+}
+    
+   
+
+

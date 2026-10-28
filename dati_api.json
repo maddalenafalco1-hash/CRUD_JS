@@ -7,7 +7,7 @@
     },
     {
       "title": "portare fuori il cane",
-      "completed": false,
+      "completed": true,
       "id": "qyxxL2gwruQ"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "title": "mangiare patatine",
-      "completed": false,
+      "completed": true,
       "id": "mpBO7znEbYw"
     }
   ],
