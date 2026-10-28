@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "title": "andare a cena con moglie",
+      "completed": true,
+      "id": "F3jpsPKVWMk"
+    },
+    {
+      "title": "portare fuori il cane",
+      "completed": false,
+      "id": "qyxxL2gwruQ"
+    },
+    {
+      "title": "pagare le tasse",
+      "completed": true,
+      "id": "YIlzaW8jbwI"
+    },
+    {
+      "title": "mangiare patatine",
+      "completed": false,
+      "id": "mpBO7znEbYw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

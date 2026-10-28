@@ -22,6 +22,7 @@ h1 {
     width: 100%;
     padding: 8px;
     margin-bottom: 10px;
+    border-radius: 8px;
     border: 1px solid #ffb6c1;
 }
 
@@ -32,19 +33,10 @@ h1 {
     color: white;
     border: none;
     cursor: pointer;
+    border-radius: 8px;
 }
 
 #add-task:hover {
     background-color: #d1157b;
 }
 
-#task-list {
-    margin-top: 20px;
-}
-
-#task-list li {
-    background-color: #fff0f5;
-    padding: 8px;
-    margin-bottom: 5px;
-    border-left: 3px solid #ff69b4;
-}
